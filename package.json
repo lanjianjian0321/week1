@@ -1,0 +1,31 @@
+{
+    "name": "week1",
+    "version": "1.0.0",
+    "description": "这是周考一技能",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lanjianjian0321/week1.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lanjianjian0321/week1/issues"
+    },
+    "homepage": "https://github.com/lanjianjian0321/week1#readme",
+    "dependencies": {
+        "gulp-webserver": "*",
+        "gulp-sass": "^4.0.2",
+        "gulp-clean-css": "*",
+        "gulp-babel": "^7.0.0",
+        "babel-core": "*",
+        "babel-preset-es2015": "*",
+        "gulp-uglify": "*",
+        "gulp-imagemin": "*",
+        "gulp-htmlmin": "*"
+    }
+}
